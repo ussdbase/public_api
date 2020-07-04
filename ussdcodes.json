@@ -1,0 +1,1664 @@
+{
+  "version":"1.0.1",
+  "results": [
+    {
+      "id": 1,
+      "title": "General USSD",
+      "code": "*901#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "id": 2,
+      "title": "Change PIN",
+      "code": "*901*0#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },
+    {
+      "id": 3,
+      "title": "Account Number",
+      "code": "*901*0#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },
+    {
+      "id": 4,
+      "title": "Airtime Self Recharge",
+      "code": "*901*Amount#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },
+    {
+      "id": 6,
+      "title": "Transfers",
+      "code": "*901*Amount*Account-No#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "id": 7,
+      "title": "Airtime Recharge Others",
+      "code": "*901*Amount*Phone-No#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "id": 8,
+      "title": "Opt Out",
+      "code": "*901*911#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "id": 9,
+      "title": "General USSD",
+      "code": "*326#",
+      "category": "BANK",
+      "product": "EcoBank"
+    },{
+      "id": 10,
+      "title": "Airtime Self Recharge",
+      "code": "*326*1*Amount#",
+      "category": "BANK",
+      "product": "EcoBank"
+    },{
+      "id": 11,
+      "title": "General USSD",
+      "code": "*329#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 12,
+      "title": "Airtime Self Recharge",
+      "code": "*329*Amount#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 13,
+      "title": "Airtime Recharge Others",
+      "code": "*329*Amount*Phone-No#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 14,
+      "title": "Transfers",
+      "code": "*329*Amount*Account-No#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 15,
+      "title": "Account Balance",
+      "code": "*329*00#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 16,
+      "title": "Reset PIN",
+      "code": "*329*0#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 17,
+      "title": "Data Purchase",
+      "code": "*329*1*Phone-No#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 18,
+      "title": "Cable TV Subscription",
+      "code": "*329*2*Amount*SmartCard-No#",
+      "category": "BANK",
+      "product": "FCMB"
+    },{
+      "id": 19,
+      "title": "General USSD",
+      "code": "*770#",
+      "category": "BANK",
+      "product": "Fidelity Bank"
+    },{
+      "id": 20,
+      "title": "Airtime Self Recharge",
+      "code": "*770*Amount#",
+      "category": "BANK",
+      "product": "Fidelity Bank"
+    },{
+      "id":21,
+      "title":"Airtime Recharge Others",
+      "code":"*770*Phone-No*Amount#",
+      "category": "BANK",
+      "product":"Fidelity Bank"
+    },{
+      "id":22,
+      "title":"Transfers",
+      "code":"*770*Account-No*Amount#",
+      "category": "BANK", 
+      "product":"Fidelity Bank"
+    },{
+      "id":23,
+      "title":"ATM Instant Cash", 
+      "code":"*770*8*Amount#", 
+      "category": "BANK", 
+      "product":"Fidelity Bank"
+    },{
+      "id":24,
+      "title": "Bills Payment",
+      "code": "*770*Code*SmartCard-No*Amount#", 
+      "category": "BANK", 
+      "product": "Fidelity Bank"
+    },{
+      "id":25, 
+      "title": "Merchant Cash", 
+      "code": "*770*22*Merchantcode*Amount#", 
+      "category": "BANK", 
+      "product":"Fidelity Bank"
+    },{
+      "id":26, 
+      "title":"Change Pin", 
+      "code":"*770*00#", 
+      "category": "BANK", 
+      "product":"Fidelity Bank"
+    },{
+      "id": 27, 
+      "title": "Account Balance", 
+      "code": "*770*0#", 
+      "category": "BANK", 
+      "product": "Fidelity Bank"
+    },{
+      "id":28,
+      "title":"Update BVN", 
+      "code":"*770*02#", 
+      "category": "BANK",
+      "product":"Fidelity Bank"
+    },{
+      "id":29, 
+      "title":"Block Card", 
+      "code":"*770*911#",
+      "category": "BANK",
+      "product":"Fidelity Bank"
+    },{
+      "id":30, 
+      "title":"General USSD", 
+      "code":"*894#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":31, 
+      "title":"Register USSD", 
+      "code":"*894*0#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":32, 
+      "title":"Airtime Self Recharge", 
+      "code":"*894*Amount#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":33, 
+      "title":"Airtime Recharge Others", 
+      "code":"*894*Amount*Phone-No#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":34, 
+      "title":"Transfers", 
+      "code":"*894*Amount*Account-No#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":35, 
+      "title":"Account Balance", 
+      "code":"*894*00#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":36, 
+      "title":"Account Statement", 
+      "code":"*894*Account-No#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":37, 
+      "title":"Open Account", 
+      "code":"*894*0#",
+      "category": "BANK",
+      "product":"First Bank"
+    },{
+      "id":38, 
+      "title":"General USSD", 
+      "code":"*737#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":39, 
+      "title":"Open Account", 
+      "code":"*737*0#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":40, 
+      "title":"Account Balance", 
+      "code":"*737*6*1#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":41, 
+      "title":"Airtime Self Recharge", 
+      "code":"*737*Amount#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":42, 
+      "title":"Airtime Recharge Others", 
+      "code":"*737*Amount*Phone-No#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":43, 
+      "title":"Transfer[GTBank]", 
+      "code":"*737*1*Amount*Account-No#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":44, 
+      "title":"Transfer[OtherBanks]", 
+      "code":"*737*2*Amount*Account-No#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":45, 
+      "title":"Data Purchase", 
+      "code":"*737*4#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":46, 
+      "title":"Generate OTP", 
+      "code":"*737*7#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":47, 
+      "title":"Airtime Advance", 
+      "code":"*737*8*1",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "id":47, 
+      "title":"Airtime Self Recharge", 
+      "code":"*322*030*Amount#",
+      "category": "BANK",
+      "product":"Heritage Bank"
+    },{
+      "id":48, 
+      "title":"Airtime Recharge Others", 
+      "code":"*322*030*Phone-No*Amount#",
+      "category": "BANK",
+      "product":"Heritage Bank"
+    },{
+      "id":49, 
+      "title":"Transfers", 
+      "code":"*322*030*Account-No*Amount#",
+      "category": "BANK",
+      "product":"Heritage Bank"
+    },{
+      "id":60, 
+      "title":"Bills Payment", 
+      "code":"*322*030*Biller-Id*Amount#",
+      "category": "BANK",
+      "product":"Heritage Bank"
+    },{
+      "id":61, 
+      "title":"General USSD", 
+      "code":"*7111#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":62, 
+      "title":"To Register", 
+      "code":"*7111*0#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":63, 
+      "title":"Airtime Recharge Others", 
+      "code":"*7111*Amount*Phone-No#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":64, 
+      "title":"Transfers", 
+      "code":"*7111*Amount*Account-No#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":65, 
+      "title":"Account Balance", 
+      "code":"*7111*1#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":66, 
+      "title":"Bills Payment", 
+      "code":"*7111*2#",
+      "category": "BANK",
+      "product":"Keystone Bank"
+    },{
+      "id":67, 
+      "title":"General USSD", 
+      "code":"*833#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":68, 
+      "title":"Open Account", 
+      "code":"*833*1#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":69, 
+      "title":"Pay Bills", 
+      "code":"*833*2#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":70, 
+      "title":"Airtime Self Recharge", 
+      "code":"*833*Amount#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":71, 
+      "title":"Airtime Recharge Others", 
+      "code":"*833*Amount*Phone-No#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":72, 
+      "title":"Transfers", 
+      "code":"*833*Amount*Account-No#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":73, 
+      "title":"BVN Update", 
+      "code":"*833*5#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":74, 
+      "title":"Account Balance", 
+      "code":"*833*6#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":75, 
+      "title":"Pay with MasterPass", 
+      "code":"*833*7#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":76, 
+      "title":"Block Card", 
+      "code":"*833*4#",
+      "category": "BANK",
+      "product":"Polaris Bank"
+    },{
+      "id":76, 
+      "title":"General USSD", 
+      "code":"*909#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":77, 
+      "title":"Airtime Self Recharge", 
+      "code":"*909*Amount#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":78, 
+      "title":"Airtime Recharge Others", 
+      "code":"*909*Amount*Phone-No#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":79, 
+      "title":"Transfer[Stanbic Bank]", 
+      "code":"*909*11*Amount*Account-No#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":80, 
+      "title":"Transfer[OtherBanks]", 
+      "code":"*909*22*Amount*Account-No#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":81, 
+      "title":"Account Balance", 
+      "code":"*909*1*1#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
+    },{
+      "id":82,
+      "title":"General USSD",
+      "code":"*822#",
+      "category":"BANK",
+      "product":"Sterling Bank"
+    },{
+      "id": 83,
+      "title": "Airtime Self Recharge",
+      "code": "*822*Amount#",
+      "category": "BANK",
+      "product": "Sterling Bank"
+    },{
+      "id": 84,
+      "title": "Airtime Recharge Others",
+      "code": "*822*Amount*Phone-No#",
+      "category": "BANK",
+      "product": "Sterling Bank"    
+    },{
+      "id": 85,
+      "title": "Transfer",
+      "code": "*822*Amount*Account-No#",
+      "category": "BANK",
+      "product": "Sterling Bank"     
+    },{
+      "id": 86,
+      "title": "See Billers",
+      "code": "*822*2#",
+      "category": "BANK",
+      "product": "Sterling Bank"  
+    },{
+      "id": 87,
+      "title": "Pay Bills",
+      "code": "*822*BillerCode*UniqueCode*Amount#",
+      "category": "BANK",
+      "product": "Sterling Bank"    
+    },{
+      "id": 88,
+      "title": "Account Balance",
+      "code": "*822*6#",
+      "category": "BANK",
+      "product": "Sterling Bank"    
+    },{
+      "id": 89,
+      "title": "Manage Card",
+      "code": "*822*19#",
+      "category": "BANK",
+      "product": "Sterling Bank"     
+    },{
+      "id": 90,
+      "title": "Account Number",
+      "code": "*822*8#",
+      "category": "BANK",
+      "product": "Sterling Bank"      
+    },{
+      "id": 91,
+      "title": "Open Account",
+      "code": "*822*7#",
+      "category": "BANK",
+      "product": "Sterling Bank"
+      
+    },{
+      "id": 92,
+      "title": "Cardless Withdrawal",
+      "code": "*822*42#",
+      "category": "BANK",
+      "product": "Sterling Bank"     
+    },{
+      "id": 93,
+      "title": "Merchant Payments",
+      "code": "*822*28*Amount*MerchantCode#",
+      "category": "BANK",
+      "product": "Sterling Bank"  
+    },{
+      "id": 94,
+      "title": "LCC TOLL Top-Up",
+      "code": "*822*15#",
+      "category": "BANK",
+      "product": "Sterling Bank" 
+    },{
+      "id":95,
+      "title": "General USSD" ,
+      "code": "*919#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":96,
+      "title": "Airtime Self Recharge",
+      "code": "*919*Amount#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":97,
+      "title": "Airtime Recharge Others",
+      "code": "*919*Phone-No*Amount#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":98,
+      "title": "Account Balance",
+      "code": "*919*00#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":99,
+      "title": "Cardless Withdrawal",
+      "code": "*919*30*Amount#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":100,
+      "title": "Transfer[UBA Bank]",
+      "code": "*919*3*Account-No*Amount#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":101,
+      "title": "Transfer[Other Banks]",
+      "code": "*919*4*Account-No*Amount#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":102,
+      "title": "Transfer[UBA Prepaid Card]",
+      "code": "*919*32#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":103,
+      "title": "Airline Menu",
+      "code": "*919*12#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":104,
+      "title": "Pay Bills",
+      "code": "*919*5#",
+      "category": "BANK",
+      "product": "UBA" 
+    },{
+      "id":105,
+      "title": "General USSD",
+      "code": "*826#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":106,
+      "title": "Airtime Self Recharge",
+      "code": "*826*Amount#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":107,
+      "title": "Account Balance",
+      "code": "*826*4#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":108,
+      "title": "Create Transaction PIN",
+      "code": "*826*5#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":109,
+      "title": "Airtime Recharge Others",
+      "code": "*826*Amount*Phone-No#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":110,
+      "title": "Transfer[Unity Bank]",
+      "code": "*826*1*Amount*Account-No#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":111,
+      "title": "Transfer[Other Banks]",
+      "code": "*826*2*Amount*Account-No#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":112,
+      "title": "Cardless Withdrawal",
+      "code": "*826*7*Amount#",
+      "category": "BANK",
+      "product": "Union Bank"
+    },{
+      "id":113,
+      "title": "General USSD",
+      "code": "*7799#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":114,
+      "title": "Airtime Self Recharge",
+      "code": "*7799*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":115,
+      "title": "Third-Party Recharge",
+      "code": "*7799*Phone-No*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":116,
+      "title": "Transfer[Unity Bank]",
+      "code": "*7799*1*Account-No*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":117,
+      "title": "Transfer[Other Banks]",
+      "code": "*7799*2*Account-No*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":118,
+      "title": "Account Balance",
+      "code": "*7799*0#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":119,
+      "title": "BVN Verification",
+      "code": "*7799*5#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":120,
+      "title": "USSD on POS",
+      "code": "*7799*000*Ref_ID#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":121,
+      "title": "Cardless Withdrawal",
+      "code": "*7799*8*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":122,
+      "title": "Eko Electricity Prepaid",
+      "code": "*7799*4*Meter-No*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":123,
+      "title": "Ikeja Electricity Prepaid",
+      "code": "*7799*4*Meter-No*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":124,
+      "title": "Bet9ja Wallet Funding",
+      "code": "*7799*403*Bet9ja_ID*Amount#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":125,
+      "title": "DSTV Subscription",
+      "code": "*7799*32#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":126,
+      "title": "GoTv Subscription",
+      "code": "*7799*33#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":127,
+      "title": "Block Account",
+      "code": "*7799*9*Phone-No#",
+      "category": "BANK",
+      "product": "Unity Bank"
+    },{
+      "id":128,
+      "title": "General USSD",
+      "code": "*7799#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":129,
+      "title": "Buy Airtime",
+      "code": "*945*Phone-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":130,
+      "title": "Send Money",
+      "code": "*945*Account-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":131,
+      "title": "Account Balance",
+      "code": "*945*0#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":132,
+      "title": "Change PIN",
+      "code": "*945*00#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":133,
+      "title": "Account Number",
+      "code": "*945*000#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":134,
+      "title": "Open Account",
+      "code": "*945*1#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":135,
+      "title": "Change Account Number",
+      "code": "*945*2*Old-Account-No*New-Account-No#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":136,
+      "title": "Account Reactivation",
+      "code": "*945*5#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":137,
+      "title": "Send Money to Phone/Email",
+      "code": "*945*6*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":138,
+      "title": "Receive/Redeem Money",
+      "code": "*945*7*Confirmation-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":139,
+      "title": "Cash on the Go",
+      "code": "*945*8*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":140,
+      "title": "Remita Payment",
+      "code":"*945*9*RRR#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":141,
+      "title": "Card Control",
+      "code": "*945*11*Last_4_digits_of_card_pan-No#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":142,
+      "title": "Pay With Mobile",
+      "code":"*945*12*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":143,
+      "title": "Receive Western Union",
+      "code": "*945*14*MTCN*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":144,
+      "title": "Generate OTP",
+      "code": "*945*15#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":145,
+      "title": "DSTV Subscription",
+      "code": "*945*16*SmartCard-No#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":146,
+      "title": "GoTV Subscription",
+      "code": "*945*17*SmartCard-No#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":147,
+      "title": "Startimes Payments",
+      "code": "*945*18*SmartCard-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":148,
+      "title": "EKO AND IKEJA DISCO",
+      "code":"*945*19*Metre-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":149,
+      "title": "Smile Subscription",
+      "code": "*945*20*ID-No#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":150,
+      "title": "Swift 4G Subscription",
+      "code": "*945*21*ID-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":151,
+      "title": "Merchant Payment",
+      "code": "*945*22*MerchantCode*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":152,
+      "title": "LCC PAYMENT",
+      "code": "*945*23*LCC-Account-No*Amount#",
+      "category": "BANK",
+      "product": "Wema Bank"
+    },{
+      "id":153,
+      "title": "General USSD",
+      "code": "*966#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":154,
+      "title": "Account Balance",
+      "code": "*966*00#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":155,
+      "title": "Account Control",
+      "code": "*966*911#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":156,
+      "title": "Buy Airtime",
+      "code": "*966*Amount*Mobile-No#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":157,
+      "title": "Transfer Funds",
+      "code": "*966*Amount*Account-No#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":158,
+      "title": "DSTv and PHCN Bills",
+      "code": "*966*7*Amount*Customer-ID#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":159,
+      "title": "Zenith Billers",
+      "code": "*966*6*BillerCode*Amount#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":160,
+      "title": "Update BVN",
+      "code": "*966*BVN#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":161,
+      "title": "USSD PIN Reset",
+      "code": "*966*60#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":162,
+      "title": "Deactivate Banking Profile",
+      "code": "*966*20*0#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":163,
+      "title": "Deactivate Account",
+      "code": "*966*911#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":164,
+      "title": "USSD on POS",
+      "code":"*966*000#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":165,
+      "title": "Activate Agent Banking",
+      "code": "*966*66#",
+      "category": "BANK",
+      "product": "Zenith Bank"
+    },{
+      "id":166,
+      "title": "eTranzact Subscription Payment",
+      "code": "*389*9*SmartCard-No#",
+      "category": "TV",
+      "product": "DSTV"
+    },{
+      "id":167,
+      "title": "Subscription Payment [via Fidelity]",
+      "code": "*770*1099*SmartCard-No*Amount#",
+      "category": "TV",
+      "product": "DSTV"
+    },{
+      "id":168,
+      "title": "DStv Box Office Payment [via Fidelity]",
+      "code": "*770*1098*SmartCard-No*Amount#",
+      "category": "TV",
+      "product": "DSTV"
+    },{
+      "id":169,
+      "title": "Subscription Payment [via Stanbic]",
+      "code": "*909*60",
+      "category": "TV",
+      "product": "DSTV"
+    },{
+      "id":170,
+      "title": "Subscription Payment [via eTranzact]",
+      "code": "*389*9*SmartCard-No#",
+      "category": "TV",
+      "product": "GOTV"
+    },{
+      "id":171,
+      "title": "GOTV Subscription [via Fidelity]",
+      "code": "*770*1088*Decoder-No*Amount#",
+      "category": "TV",
+      "product": "GOTV"
+    },{
+      "id":172,
+      "title": "Stanbic Subscription Payment",
+      "code": "*909*60",
+      "category": "TV",
+      "product": "GOTV"
+    },{
+      "id":173,
+      "title": "Customer Care",
+      "code": "*423#",
+      "category": "TV",
+      "product": "GOTV"
+    },{
+      "id":174,
+      "title": "Reach Customer Care",
+      "code": "*288*1#",
+      "category": "TV",
+      "product": "GOTV"
+    },{
+      "id":175,
+      "title": "Startimes Subscription [via Fidelity]",
+      "code": "*770*1077*SmartCard-No*Amount#",
+      "category": "TV",
+      "product": "Startimes"
+    },{
+      "id":176,
+      "title": "Subscription Payment [via GTBank]",
+      "code": "*737*37*Amount*SmartCard-No#",
+      "category": "TV",
+      "product": "Startimes"
+    },{
+      "id":177,
+      "title": "Bet9ja [via UBA]",
+      "code": "*919*22*User-ID#",
+      "category": "GENERAL/BETTING",
+      "product": "BET9JA"
+    },{
+      "id":178,
+      "title": "Baba Ijebu [MTN Only]",
+      "code": "*755#",
+      "category": "GENERAL/BETTING",
+      "product": "BABA-IJEBU"
+    },{
+      "id":179,
+      "title": "Betking [via GT Collection]",
+      "code": "*737*50*Amount*153#",
+      "category": "GENERAL/BETTING",
+      "product": "BETKING"
+    },{
+      "id":180,
+      "title": "Betway [via GT Collection]",
+      "code": "*737*50*Amount*285#",
+      "category": "GENERAL/BETTING",
+      "product": "BETWAY"
+    },{
+      "id":181,
+      "title": "Blackbet [via Mcash]",
+      "code": "*402*96607181*Amount#",
+      "category": "GENERAL/BETTING",
+      "product": "BLACKBET"
+    },{
+      "id":182,
+      "title": "Naijabet [via GT Collections]",
+      "code": "*737*50*Amount*46#",
+      "category": "GENERAL/BETTING",
+      "product": "NAIJABET"
+    },{
+      "id":183,
+      "title": "Nairabet",
+      "code": "*5447#",
+      "category": "GENERAL/BETTING",
+      "product": "NAIRABET"
+    },{
+      "id":184,
+      "title": "Abuja ElectricityDC [via PAGA]",
+      "code": "*242*803#",
+      "category": "GENERAL/BILLS",
+      "product": "AEDC"
+    },{
+      "id":185,
+      "title": "Abuja ElectricityDC [Postpaid Users]",
+      "code": "*322*1*04313801*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "AEDC"
+    },{
+      "id":186,
+      "title": "Benin ElectricityDC [via Quickteller(Prepaid)]",
+      "code": "*322*76701*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "BEDC"
+    },{
+      "id":187,
+      "title": "Benin ElectricityDC [Fidelity(Postpaid)]",
+      "code": "*322*Account-No*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "BEDC"
+    },{
+      "id":188,
+      "title": "Eko ElectricityDC [via Quickteller]",
+      "code": "*322*1011*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "EKEDC"
+    },{
+      "id":189,
+      "title": "Enugu ElectricityDC [via Quickteller]",
+      "code": "*322*1021*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "EEDC"
+    },{
+      "id":190,
+      "title": "Enugu ElectricityDC [Fidelity(Prepaid)]",
+      "code": "*770*1021*Meter-No*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "EEDC"
+    },{
+      "id":191,
+      "title": "Enugu ElectricityDC [Fidelity(Postpaid)]",
+      "code": "*770*1014*Meter-No*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "EEDC"
+    },{
+      "id":192,
+      "title": "Ibadan ElectricityDC [via Quickteller]",
+      "code": "*322*79201*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "IBEDC"
+    },{
+      "id":193,
+      "title": "Ibadan ElectricityDC [via eTranzact]",
+      "code": "*389*13*Meter/Account-No#",
+      "category": "GENERAL/BILLS",
+      "product": "IBEDC"
+    },{
+      "id":194,
+      "title": "Ikeja ElectricityDC [Banks]",
+      "code": "*565*6*0013Meter/Account-No*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "IKEDC"
+    },{
+      "id":195,
+      "title": "Ikeja ElectricityDC [via Quickteller]",
+      "code": "*322*1111*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "IKEDC"
+    },{
+      "id":196,
+      "title": "Jos ElectricityDC [via Quickteller]",
+      "code": "*322*04297801*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "JEDC"
+    },{
+      "id":197,
+      "title": "Jos ElectricityDC [Prepaid]",
+      "code": "*322*1*04297902*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "JEDC"
+    },{
+      "id":198,
+      "title": "Kaduna ElectricityDC [via Quickteller]",
+      "code": "*322*04296902*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "KEDC"
+    },{
+      "id":199,
+      "title": "Kano ElectricityDCO [via Quickteller]",
+      "code": "*322*1013*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "KEDCO"
+    },{
+      "id":200,
+      "title": "Kano ElectricityDCO [Prepaid]",
+      "code": "*322*1*2692*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "KEDCO"
+    },{
+      "id":201,
+      "title": "Port Harcourt ElectricityDC [via Quickteller]",
+      "code": "*322*1017*Amount#",
+      "category": "GENERAL/BILLS",
+      "product": "PHED"
+    },{
+      "id": 202,
+      "title": "Check WAEC Result [via !SMS(To 32327)]",
+      "code": "WAEC*ExamNo*PIN*ExamYear",
+      "category": "GENERAL/EDUCATION",
+      "product": "WAEC"
+    },{
+      "id": 203,
+      "title": "Check NECO Result [via !SMS(To 32327)]",
+      "code": "NECO:Exam-No:Exam-Year:Exam-Type:PIN",
+      "category": "GENERAL/EDUCATION",
+      "product": "NECO"
+    },{
+      "id": 204,
+      "title": "Create JAMB Profile [via !SMS(To 55019)]",
+      "code": "Surname FirstName MiddleName",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 205,
+      "title": "Update Existing Jamb Profile [via !SMS(To 55019)]",
+      "code": "Correct Surname FirstName MiddleName",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 206,
+      "title": "Get Confirmation Code again [via !SMS(To 55019)]",
+      "code": "Resend",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 207,
+      "title": "Get UTME PIN again [via !SMS(To 55019)]",
+      "code": "UTMEPIN",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 208,
+      "title": "Get Direct Entry PIN Again [via !SMS(To 55019)]",
+      "code": "DEPIN",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 209,
+      "title": "Get How to use Service [via !SMS(To 55019)]",
+      "code": "HELP",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 210,
+      "title": "Reset Profile Password [via !SMS(To 55019)]",
+      "code": "PASSWORD email",
+      "category": "GENERAL/EDUCATION",
+      "product": "JAMB"
+    },{
+      "id": 211,
+      "title": "Check Result [via !SMS(To 32327)]",
+      "code": "NABTEB*Exam-No*PIN*Exam-Type*Year",
+      "category": "GENERAL/EDUCATION",
+      "product": "NABTEB"
+    },{
+      "id": 212,
+      "title": "Do Not Disturb [Stop Unecessary SMS]",
+      "code": "*2443#",
+      "category": "GENERAL/EXTRAS",
+      "product": "EXTRAS"
+    },{
+      "id": 213,
+      "title": "Check BVN",
+      "code": "*565#",
+      "category": "GENERAL/EXTRAS",
+      "product": "EXTRAS"
+    },{
+      "id": 214,
+      "title": "National Identity Number",
+      "code": "*346#",
+      "category": "GENERAL/EXTRAS",
+      "product": "EXTRAS"
+    },{
+      "id": 215,
+      "title": "OPAY",
+      "code": "*995#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "OPAY"
+    },{
+      "id": 216,
+      "title": "Self Service",
+      "code": "*123#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 217,
+      "title": "Balance Inquiry",
+      "code": "*556#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 218,
+      "title": "Data Purchase",
+      "code": "*131*1#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 219,
+      "title": "Own Number",
+      "code": "*123*1*1#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 220,
+      "title": "Borrow Airtime or Data",
+      "code": "*600#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 221,
+      "title": "Transfer Airtime",
+      "code": "*777#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 222,
+      "title": "Check Data Subscription",
+      "code": "*559#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 223,
+      "title": "Please Call Me",
+      "code": "*133#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 224,
+      "title": "Data Transfer",
+      "code": "*131*4#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 225,
+      "title": "Customer Care",
+      "code": "180",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 226,
+      "title": "General Menu",
+      "code": "*131#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 227,
+      "title": "Best Offers for Me",
+      "code": "*121#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "id": 228,
+      "title": "Self Care",
+      "code": "*121#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 229,
+      "title": "Balance Inquiry",
+      "code": "*123#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 230,
+      "title": "Own Number",
+      "code": "*121*3*4#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 231,
+      "title": "Data Balance",
+      "code": "*140#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 232,
+      "title": "Reach Out to Airtel",
+      "code": "*121*8#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 233,
+      "title": "Data and Services",
+      "code": "*141#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 234,
+      "title": "Borrow Airtime or Data",
+      "code": "*500#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 235,
+      "title": "Send Airtime",
+      "code": "*432#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
+    },{
+      "id": 236,
+      "title": "Balance inquiry",
+      "code": "#124*1#",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "id": 237,
+      "title": "Customer Care",
+      "code": "121",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "id": 238,
+      "title": "Data Services",
+      "code": "*777#",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "id": 239,
+      "title": "Check Number",
+      "code": "*135*8#",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "id": 240,
+      "title": "Borrow Airtime",
+      "code": "*321#",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "id": 241,
+      "title": "Balance Inquiry",
+      "code": "*224#",
+      "category": "MOBILE",
+      "product": "9Mobile"
+    },{
+      "id": 242,
+      "title": "Self Service",
+      "code": "*200#",
+      "category": "MOBILE",
+      "product": "9Mobile"
+    },{
+      "id": 243,
+      "title": "Data Service",
+      "code": "*229#",
+      "category": "MOBILE",
+      "product": "9Mobile"
+    },{
+      "id": 244,
+      "title": "Night Plan['1Gb'-N200]",
+      "code": "*229*3*11#",
+      "category": "MOBILE",
+      "product": "9Mobile"
+    },{
+      "id": 245,
+      "title": "Paga Internet",
+      "code": "*242*812#",
+      "category": "MOBILE",
+      "product": "Spectranet"
+    },{
+      "id": 246,
+      "title": "Internet Subscription[Paga]",
+      "code": "*242*801#",
+      "category": "MOBILE",
+      "product": "Smile"
+    },{
+      "id": 247,
+      "title": "Internet Subscription[Paga]",
+      "code": "*242*814#",
+      "category": "MOBILE",
+      "product": "SWIFT"
+    },{
+      "id": 248,
+      "title": "No USSD used at the time",
+      "code": "",
+      "category": "MOBILE",
+      "product": "NTel"
+    },{
+      "id": 249,
+      "title": "General USSD",
+      "code": "*773#",
+      "category": "BANK",
+      "product": "JAIZ"
+    },{
+      "id": 250,
+      "title": "Top-Up",
+      "code": "*773*Amount#",
+      "category": "BANK",
+      "product": "JAIZ"
+    },{
+      "id": 251,
+      "title": "Android Test",
+      "code": "*#*#4636#*#*",
+      "category": "GENERAL/EXTRAS",
+      "product": "EXTRAS"
+    },{
+      "id": 252,
+      "title": "FetsWallet",
+      "code": "*610#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "FetsWallet"
+    },{
+      "id": 253,
+      "title": "IBEDC Bill Payment[FetsWallet]",
+      "code": "*610*11*Meter-No*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "FetsWallet"
+    },{
+      "id": 254,
+      "title": "Airtime Top-Up[FetsWallet]",
+      "code": "*610*12*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "FetsWallet"
+    },{
+      "id": 255,
+      "title": "Airtime For Others[FetsWallet]",
+      "code": "*610*13*Number*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "FetsWallet"
+    },{
+      "id": 256,
+      "title": "Wallet-to-Wallet Transfer[FetsWallet]",
+      "code": "*610*14*Number*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "FetsWallet"
+    },{
+      "id": 257,
+      "title": "Mcash",
+      "code": "*402#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "MCash"
+    },{
+      "id": 258,
+      "title": "Mcash Bank USSD",
+      "code": "*402*SellerCode*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "MCash"
+    },{
+      "id": 259,
+      "title": "Paga",
+      "code": "*242#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Paga"
+    },{
+      "id": 260,
+      "title": "PayAttitude",
+      "code": "*569#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Pay-Attitude"
+    },{
+      "id": 261,
+      "title": "Verve E-Code",
+      "code": "*322*8*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Verve-ECash"
+    },{
+      "id": 262,
+      "title": "Verve Service",
+      "code": "*322*60#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Verve-ECash"
+    },{
+      "id": 263,
+      "title": "Trader Moni",
+      "code": "*540#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 264,
+      "title": "Trader Moni[Ecobank]",
+      "code": "*4255023*Account-No#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 265,
+      "title": "Trader Moni[FCMB]",
+      "code": "*4255025*Account-No#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 266,
+      "title": "Trader Moni[UBA]",
+      "code": "*42550213*Account-No#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 267,
+      "title": "Trader Moni[Union Bank]",
+      "code": "*42550214*Account-No#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 268,
+      "title": "Trader Moni[First Bank]",
+      "code": "*4255024*Account-No#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 268,
+      "title": "Trader Moni[Other Banks]",
+      "code": "*4255#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 269,
+      "title": "Apply For Trader Moni",
+      "code": "*540*265#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Trader-Moni"
+    },{
+      "id": 270,
+      "title": "Registration",
+      "code": "*322*60#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 271,
+      "title": "Pin Selection[eCash Inactive]",
+      "code": "*322*3#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 273,
+      "title": "Pin Selection[Change eCash Pin]",
+      "code": "*322*4#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 274,
+      "title": "Recharge[self-recharge]",
+      "code": "*322*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 275,
+      "title": "Recharge[Recharge-others]",
+      "code": "*322*Mobile-No*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 276,
+      "title": "Balance enquiry",
+      "code": "*322*9*0#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 277,
+      "title": "Cardless withdrawal",
+      "code": "*322*8*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 278,
+      "title": "Transfer",
+      "code": "*322*Account-No*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 279,
+      "title": "Generate Safetoken",
+      "code": "*322*0#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    },{
+      "id": 280,
+      "title": "Fund eCash",
+      "code": "*322*0000*Amount#",
+      "category": "GENERAL/MERCHANTS",
+      "product": "Quickteller"
+    }
+  ],
+  "popular":[
+    {
+      "title": "Balance Inquiry",
+      "code": "*556#",
+      "category": "MOBILE",
+      "product": "MTN"
+    },{
+      "title":"General USSD", 
+      "code":"*737#",
+      "category": "BANK",
+      "product":"GTBank"
+    },{
+      "title": "Balance inquiry",
+      "code": "#124*1# ",
+      "category": "MOBILE",
+      "product": "GLO"
+    },{
+      "title": "General USSD",
+      "code": "*901#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "title": "Check BVN",
+      "code": "*565#",
+      "category": "GENERAL/EXTRAS",
+      "product": "EXTRAS"
+    }
+  ]
+}
