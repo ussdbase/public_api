@@ -1444,13 +1444,13 @@
       "title": "General USSD",
       "code": "*773#",
       "category": "BANK",
-      "product": "JAIZ"
+      "product": "JAIZ Bank"
     },{
       "id": 250,
       "title": "Top-Up",
       "code": "*773*Amount#",
       "category": "BANK",
-      "product": "JAIZ"
+      "product": "JAIZ Bank"
     },{
       "id": 251,
       "title": "Android Test",
