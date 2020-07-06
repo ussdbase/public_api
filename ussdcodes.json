@@ -1631,6 +1631,12 @@
       "code": "*322*0000*Amount#",
       "category": "GENERAL/MERCHANTS",
       "product": "Quickteller"
+    },{
+      "id": 281,
+      "title": "Check Bonus",
+      "code": "*123*1#",
+      "category": "MOBILE",
+      "product": "AIRTEL"
     }
   ],
   "popular":[
