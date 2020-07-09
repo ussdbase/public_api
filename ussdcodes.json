@@ -1641,10 +1641,15 @@
   ],
   "popular":[
     {
-      "title": "Balance Inquiry",
-      "code": "*556#",
-      "category": "MOBILE",
-      "product": "MTN"
+      "title": "General USSD",
+      "code": "*901#",
+      "category": "BANK",
+      "product": "Access Bank"
+    },{
+      "title":"Airtime Self Recharge", 
+      "code":"*909*Amount#",
+      "category": "BANK",
+      "product":"Stanbic Bank"
     },{
       "title":"General USSD", 
       "code":"*737#",
@@ -1656,15 +1661,10 @@
       "category": "MOBILE",
       "product": "GLO"
     },{
-      "title": "General USSD",
-      "code": "*901#",
-      "category": "BANK",
-      "product": "Access Bank"
-    },{
-      "title": "Check BVN",
-      "code": "*565#",
-      "category": "GENERAL/EXTRAS",
-      "product": "EXTRAS"
+      "title": "Own Number",
+      "code": "*123*1*1#",
+      "category": "MOBILE",
+      "product": "MTN"
     }
   ]
 }
