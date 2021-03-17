@@ -1268,7 +1268,7 @@
     },{
       "id": 220,
       "title": "Borrow Airtime or Data",
-      "code": "*600#",
+      "code": "*606#",
       "category": "MOBILE",
       "product": "MTN"
     },{
@@ -1280,7 +1280,7 @@
     },{
       "id": 222,
       "title": "Check Data Subscription",
-      "code": "*559#",
+      "code": "*131*4#",
       "category": "MOBILE",
       "product": "MTN"
     },{
@@ -1292,7 +1292,7 @@
     },{
       "id": 224,
       "title": "Data Transfer",
-      "code": "*131*4#",
+      "code": "*131*7#",
       "category": "MOBILE",
       "product": "MTN"
     },{
